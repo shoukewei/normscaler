@@ -34,4 +34,4 @@ X_train_scaled
 X_test_scaled
 ```
  ## Documentation
- Examples of a Jupyter note in GitHub: 
+ Examples of a Jupyter note in GitHub: https://github.com/shoukewei/normscaler/blob/main/docs/examples.ipynb
