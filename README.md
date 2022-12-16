@@ -65,5 +65,6 @@ X_test_scaled
 ## License
 https://opensource.org/licenses/MIT
 
-## PyPI page: https://pypi.org/project/normcaler
+## PyPI page: 
+https://pypi.org/project/normcaler
 
