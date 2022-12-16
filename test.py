@@ -18,3 +18,4 @@ X_train_scaled, X_test_scaled = DecimalScaler(X_train,X_test)
 
 # display normalized training data
 print(X_train_scaled)
+print(X_test_scaled)

@@ -8,7 +8,7 @@ Developed by Shouke Wei from Deepsim Academy, Deepsim Intelligence Technology In
 
 ## Install the package
 ```python
-pip install decimalscaler
+pip install normscaler
 ```
 
 ## An example
@@ -65,5 +65,5 @@ X_test_scaled
 ## License
 https://opensource.org/licenses/MIT
 
-## PyPI page:
+## PyPI page: https://pypi.org/project/normcaler
 

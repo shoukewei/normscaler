@@ -4,7 +4,7 @@ A package for data normalization including the methods of *MinMaxScaler*, *MaxAb
 
 ## Install 
 ```python
-pip install normscalers
+pip install normscaler
 ```
 ## use
 

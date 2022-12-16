@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 
 from pathlib import Path
 
-VERSION = '0.0.1'
+VERSION = '0.0.2'
 DESCRIPTION = 'A data normalization package'
 
 this_directory = Path(__file__).parent
@@ -14,7 +14,7 @@ setup(
     name="normcaler",
     version=VERSION,
     author="Shouke Wei",
-    author_email="shouke.wei@deepsim.co>",
+    author_email="shouke.wei@gmail.com",
     license='MIT License',
     description=DESCRIPTION,
     long_description_content_type="text/markdown",
@@ -27,7 +27,7 @@ setup(
     keywords=['python', 'data normalization', 'dataframe', 'one-hot encoded variables','train','test'],
     classifiers=[
         "Development Status :: 1 - Planning",
-        "Intended Audience :: Data Scientists",
+        "Intended Audience :: Science/Research",
         "Programming Language :: Python :: 3",
         "Operating System :: Unix",
         "Operating System :: MacOS :: MacOS X",
