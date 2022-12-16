@@ -17,4 +17,4 @@ X_train, X_test, y_train, y_test = train_test_split(X, y,test_size=0.30, random_
 X_train_scaled, X_test_scaled = DecimalScaler(X_train,X_test)
 
 # display normalized training data
-X_train_scaled
+print(X_train_scaled)
