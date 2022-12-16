@@ -66,5 +66,8 @@ X_test_scaled
 https://opensource.org/licenses/MIT
 
 ## PyPI page: 
-https://pypi.org/project/normscaler/0.0.2/
+https://pypi.org/project/normscaler
+
+## Medium Post
+https://medium.com/@shouke.wei/a-handy-data-normalization-package-in-python-3b863b829eaa
 
