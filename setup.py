@@ -23,8 +23,8 @@ setup(
     project_url = 'https://github.com/shoukewei/normscaler',
     Documentation = 'https://github.com/shoukewei/normscaler/blob/main/docs/examples.ipynb',
     packages=find_packages(),
-    install_requires=['scikit-learn'],
-    keywords=['python', 'normalization', 'decimal', 'scaler'],
+    install_requires=['pandas','scikit-learn'],
+    keywords=['python', 'data normalization', 'dataframe', 'one-hot encoded variables','train','test'],
     classifiers=[
         "Development Status :: 1 - Planning",
         "Intended Audience :: Data Scientists",
