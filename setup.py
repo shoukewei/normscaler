@@ -11,7 +11,7 @@ LONG_DESCRIPTION = (this_directory / "DESCRIPTION.md").read_text()
 
 # Setting up
 setup(
-    name="normcaler",
+    name="normscaler",
     version=VERSION,
     author="Shouke Wei",
     author_email="shouke.wei@gmail.com",
